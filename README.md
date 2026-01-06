@@ -88,4 +88,4 @@ This project is ideal for:
 ---
 
 👤 **Author:** Akram Djellouli  
-📚 **Field:** Computer Science – Intelligent Systems & Fuzzy Logic
+📚 **Field:** Computer Science 
